@@ -55,3 +55,12 @@ docker-compose up --build
 root / secret ( пароль прописывается в файле docker-compose.yml )
 
 в качестве сервера подключения к БД указать mysql вместо localhost
+
+### Ссылки на другие конфигурации
+https://github.com/krutikov-vadim2016/bitrix-php-fpm7.0-mysql5.7
+
+https://github.com/krutikov-vadim2016/bitrix-php-fpm7.2-mariadb10.3
+
+https://github.com/krutikov-vadim2016/bitrix-php-fpm7.1-mariadb10.3
+
+https://github.com/krutikov-vadim2016/bitrix-php-fpm7.1-mysql5.7

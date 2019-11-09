@@ -30,7 +30,7 @@ cd /ваша папка
 
 git clone https://github.com/krutikov-vadim2016/bitrix-php-fpm7.1-mysql5.7.git
 
-cd bitrix-php-fpm7.1-mysql5.7
+cd bitrix-php-fpm7.2-mysql5.7
 
 chown -R 33:33 www tmp
 

@@ -28,7 +28,7 @@ yum install -y mc nano wget git docker docker-compose && chkconfig docker on && 
 
 cd /ваша папка
 
-git clone https://github.com/krutikov-vadim2016/bitrix-php-fpm7.1-mysql5.7.git
+git clone https://github.com/krutikov-vadim2016/bitrix-php-fpm7.2-mysql5.7.git
 
 cd bitrix-php-fpm7.2-mysql5.7
 

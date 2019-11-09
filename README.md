@@ -49,6 +49,7 @@ docker-compose up --build
 Установка битрикса http://IP_SERVER/bitrixsetup.php
 
 Перенос готового сайта из бэкапа http://IP_SERVER/restore.php
+### !!!После установки битрикса удалите скрипты restore.php и bitrixsetup.php если не удалил установщик
 
 Данные к MySQL:
 root / secret ( пароль прописывается в файле docker-compose.yml )

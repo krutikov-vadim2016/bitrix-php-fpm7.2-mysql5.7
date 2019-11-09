@@ -49,7 +49,9 @@ docker-compose up --build
 ###  Проверяем работоспособность и настраиваем сайт на битриксе
 
 Сайт доступен по ссылке http://IP_SERVER
+
 Установка битрикса http://IP_SERVER/bitrixsetup.php
+
 Перенос готового сайта из бэкапа http://IP_SERVER/restore.php
 
 Данные к MySQL:

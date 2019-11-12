@@ -38,7 +38,7 @@ chown -R 33:33 www tmp
 
 docker-compose up -d
 или
-docker-compose up --build
+docker-compose up --build -d
 
 
 
